@@ -1,0 +1,15 @@
+.navbar {
+  background-color: blue;
+  height: 10vh;
+  display: flex;
+  padding: 10px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: start;
+}
+.app-container {
+  background-color: white;
+  height: 100vh;
+  padding: 10px;
+  background-size: cover;
+}
